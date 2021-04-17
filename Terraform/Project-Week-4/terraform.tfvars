@@ -1,0 +1,4 @@
+subscriptionID = ""
+location = ""
+login = ""
+password = ""
